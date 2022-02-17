@@ -1,0 +1,5 @@
+Documento de supuestos:
+
+Se supone que debe Registrarse antes de logearse
+Se supone que debe agregar un Huesped y en la lista de huespedes agragar su o sus reservas
+Se supone que las fechas deben ir con el formato (dd/MM/yyyy)

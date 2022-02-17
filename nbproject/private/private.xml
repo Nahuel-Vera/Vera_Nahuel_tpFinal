@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/AgregarHuesp1.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/VerEmpleados.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/EmpleadoJpaController.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/html-td-background-css/tablaHuspedes.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/style1Login.css</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Controladora.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/style1.css</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/VerReservas_1.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/AgregarEmple1.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Huesped.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/principal.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/UsuarioJpaController.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/ReservacionJpaController.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/index.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvSusReservas.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/ModificarHuesped.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Empleado.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvAgregar.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/style_1.css</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/HabitacionJpaController.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/ConexionVerReservas.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/Login.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvRegistrarReserva.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Reservacion.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/VerPersonas.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/VerReservas.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/style2VerHuesp.css</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvModificar.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvUsuario.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Persona.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Habitacion.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/web/AgregarReserva.jsp</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvBuscarFecha.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvEliminar.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/PersonaJpaController.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/ControladoraPersistencia.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Servlets/SvAgregarEmpleado.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Persistencia/HuespedJpaController.java</file>
+            <file>file:/C:/Users/Nahuu/Documents/NetBeansProjects/Vera_Nahuel_tpFinal/src/java/Logica/Usuario.java</file>
+        </group>
+    </open-files>
+</project-private>

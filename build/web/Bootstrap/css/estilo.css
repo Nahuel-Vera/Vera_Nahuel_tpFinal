@@ -1,0 +1,26 @@
+body{
+    background: #737373;
+}
+#cuadro{
+    width: 500px;
+    border-bottom: 3px solid #245580;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-radius: 8px;
+    margin: auto;
+    margin: 130px;
+    background: linear-gradient(#2E8B57, #4682B4);
+    
+}
+#cabeza{
+    text-align: center;
+    width: 500px;
+    height: 23px;
+
+}
+#cuerpo{
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+}
