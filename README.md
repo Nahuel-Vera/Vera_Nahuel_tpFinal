@@ -18,7 +18,7 @@ bd: hotel_tp
 Url: jdbc:mysql://localhost:3308/tpo2int?serverTimezone=UTC
 puerto:3308
 
-## TENER EN CUENTA 	:loudspeaker:
+### TENER EN CUENTA 	:loudspeaker:
 nota IMPORTANTE, tenia problemas al compilar el Ppersistence.xml,
 tuve que cambiar  el value del driver a este:
 "com.mysql.cj.jdbc.Driver"
