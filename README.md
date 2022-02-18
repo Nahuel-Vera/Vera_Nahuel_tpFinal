@@ -5,6 +5,7 @@ Con sistema de Login.
 En cual se pueden hacer alta bajas y modificaciones de reservas de huespedes, chekear si tienen una habitacion asignada y a nombre de quien esta.
 
 ## Wamp
+pagina de descarga de [WAMP](https://www.wampserver.com/en/#download-wrapper)
 Correr el Wamp configurando el puerto correctamentamente de MySql y la config en la aplicaion Java
 WAMP actúa como un servidor virtual en tu computadora (WampServer). Permite probar todas las funciones de WordPress sin ninguna consecuencia, ya que está ubicado en tu máquina y no está conectado a la web.
 
