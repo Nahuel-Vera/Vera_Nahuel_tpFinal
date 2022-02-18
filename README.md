@@ -28,5 +28,5 @@ nota IMPORTANTE, tenia problemas al compilar el Ppersistence.xml,
 tuve que cambiar  el value del driver a este:
 "com.mysql.cj.jdbc.Driver"
 
-##### en el Documento de Supuestos.txt se encuentran cosas a tener en cuenta en cuanto a su funcionamiento.
-[a link](https://github.com/Nahuel-Vera/Vera_Nahuel_tpFinal/blob/main/Supuestos.txt)
+##### en el Documento de [Supuestos.txt](https://github.com/Nahuel-Vera/Vera_Nahuel_tpFinal/blob/main/Supuestos.txt) se encuentran cosas a tener en cuenta en cuanto a su funcionamiento.
+
