@@ -1,8 +1,10 @@
-# Vera_Nahuel_tpFinal
+# Vera Nahuel tpFinal
 
-Aplicacion Web en cual se pueden hacer alta bajas y modificaciones de reservas
+#### Aplicacion Web
+Con sistema de Login.
+En cual se pueden hacer alta bajas y modificaciones de reservas de huespedes, chekear si tienen una habitacion asignada y a nombre de quien esta.
 
-## Wamp 
+## Wamp
 Correr el Wamp configurando el puerto correctamentamente de MySql y la config en la aplicaion Java
 WAMP actúa como un servidor virtual en tu computadora (WampServer). Permite probar todas las funciones de WordPress sin ninguna consecuencia, ya que está ubicado en tu máquina y no está conectado a la web.
 
@@ -15,7 +17,7 @@ Este mismo pondra ON la Base de datos MySql de phpMyAdmin, a la cual se accede e
 - Usuario: hotel
 - Contraseña: 123
 - bd: hotel_tp
-- Url: jdbc:mysql://localhost:3308/tpo2int?serverTimezone=UTC
+- Url: jdbc:mysql://localhost:3308/tpo2int?serverTimezone=UTC (Tener en cuenta que El Timezone dependera de donde usted viva, en mi Caso Argentina)
 - puerto:3308
 
 ## TENER EN CUENTA 	:loudspeaker:
