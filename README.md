@@ -30,3 +30,6 @@ tuve que cambiar  el value del driver a este:
 
 ##### en el Documento de [Supuestos.txt](https://github.com/Nahuel-Vera/Vera_Nahuel_tpFinal/blob/main/Supuestos.txt) se encuentran cosas a tener en cuenta en cuanto a su funcionamiento.
 
+
+[Diagrama UML de como deberia quedar la BDA](https://github.com/Nahuel-Vera/Vera_Nahuel_tpFinal/blob/main/DiagramaFinalUml(VeraNahuel).PNG)
+
