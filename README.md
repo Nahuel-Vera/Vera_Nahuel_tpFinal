@@ -28,4 +28,4 @@ nota IMPORTANTE, tenia problemas al compilar el Ppersistence.xml,
 tuve que cambiar  el value del driver a este:
 "com.mysql.cj.jdbc.Driver"
 
-##### en el Documento de Supuestos.txt se encuentran cosas a tener en cuenta en cuanto a su funcionamiento.
+##### en el Documento de ./Supuestos.txt se encuentran cosas a tener en cuenta en cuanto a su funcionamiento.
