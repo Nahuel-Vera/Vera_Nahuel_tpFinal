@@ -17,8 +17,10 @@ Este mismo pondra ON la Base de datos MySql de phpMyAdmin, a la cual se accede e
 - Usuario: hotel
 - Contraseña: 123
 - bd: hotel_tp
-- Url: jdbc:mysql://localhost:3308/tpo2int?serverTimezone=UTC (Tener en cuenta que El Timezone dependera de donde usted viva, en mi Caso Argentina)
+- Url: jdbc:mysql://localhost:3308/tpo2int?serverTimezone=UTC
 - puerto:3308
+
+(Tener en cuenta que El Timezone dependera de donde usted viva, en mi Caso Argentina)
 
 ## TENER EN CUENTA 	:loudspeaker:
 
