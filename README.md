@@ -24,6 +24,17 @@ Este mismo pondra ON la Base de datos MySql de phpMyAdmin, a la cual se accede e
 
 (Tener en cuenta que El Timezone dependera de donde usted viva, en mi Caso Argentina)
 
+## XML
+#### Conexion entre la BD y la aplicacion
+
+[.XML](https://github.com/Nahuel-Vera/Vera_Nahuel_tpFinal/blob/main/src/conf/persistence.xml)
+Este archivo contiene las configuraciones de la BD para la buena conexion de la aplicacion con la BD.
+Aqui se ingresaran el usuario de la Base de datos
+                   el password de la Base de datos
+                   el driver que se este utilizando
+                   la zona horaria
+                   entre otras cosas que la aplicacion necesita para la buena comunicacion con la BD.
+
 ## TENER EN CUENTA 	:loudspeaker:
 
 nota IMPORTANTE, tenia problemas al compilar el Ppersistence.xml,
