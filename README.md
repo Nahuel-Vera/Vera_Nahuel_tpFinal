@@ -34,11 +34,8 @@ Este archivo contiene las configuraciones de la BD para la buena conexion de la 
 Aqui se ingresaran el usuario de la Base de datos
 
 - el password de la Base de datos
-
 - el driver que se este utilizando
-                   
 - la zona horaria
-
 - entre otras cosas que la aplicacion necesita para la buena comunicacion con la BD.
 
 ## TENER EN CUENTA 	:loudspeaker:
